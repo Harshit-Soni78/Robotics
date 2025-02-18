@@ -1,0 +1,6 @@
+Youtube :- https://www.youtube.com/watch?v=EjHZ4gRDKKo&ab_channel=AslamHossain
+
+Github :- https://github.com/aslam-Hossain-YT/Self-Balancing-Robot-Code
+
+
+Used Board - Arduino Nano
