@@ -1,0 +1,4 @@
+V1 (Arduino Uno) :- https://www.youtube.com/watch?v=JlrvP6vElCk&ab_channel=SaiyamAgrawal
+
+
+V2 (Arduino Nano) :- https://www.youtube.com/watch?v=ecNfo2phP6g&ab_channel=SaiyamAgrawal
